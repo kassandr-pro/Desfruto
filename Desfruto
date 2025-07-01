@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Desfrute • Culinary Atelier</title>
+<style>
+  body { font-family: Arial, sans-serif; background: #fafafa; color: #333; margin:20px; line-height:1.6; }
+  h1 { color: #4A4A4A; }
+  .section { margin-bottom:30px; }
+  .contact a { color: #0066cc; text-decoration:none; }
+  .services table { width:100%; border-collapse:collapse; }
+  .services th, .services td { padding:8px; border-bottom:1px solid #ccc; text-align:left; }
+  .gallery img { width:100%; max-width:300px; margin:5px; border-radius:4px; }
+  .footer { text-align:center; margin-top:40px; font-style:italic; color:#555; }
+</style>
+</head>
+<body>
+  <h1>Desfrute • Culinary Atelier</h1>
+  <p><em>Elegância, criatividade e profissionalismo em cada prato</em></p>
+
+  <div class="section">
+    <h2>Sobre Mim</h2>
+    <p>Sou uma profissional da culinária com formação em gastronomia na África do Sul e prática em cozinhas internacionais. Meu trabalho combina técnica refinada, criatividade e dedicação para entregar pratos elegantes e deliciosos.</p>
+  </div>
+
+  <div class="section services">
+    <h2>Serviços & Preços</h2>
+    <table>
+      <tr><th>Serviço</th><th>Descrição</th><th>Preço (MZN)</th></tr>
+      <tr><td>Menu Completo (10 pratos)</td><td>Planejo, preparo e entrego um menu completo para até 10 pessoas</td><td>50 000</td></tr>
+      <tr><td>Consultoria Gourmet</td><td>Sessão de 1h para evento ou delivery gourmet</td><td>10 000 / hora</td></tr>
+      <tr><td>Evento Privado</td><td>Serviço completo para até 20 pessoas</td><td>a partir de 120 000</td></tr>
+      <tr><td>Entrega de Pratos Premium</td><td>5 pratos selecionados para até 5 pessoas</td><td>25 000</td></tr>
+    </table>
+    <p><em>Preços ajustáveis conforme necessidades específicas.</em></p>
+  </div>
+
+  <div class="section gallery">
+    <h2>Galeria</h2>
+    <img src="https://via.placeholder.com/300" alt="Prato elegante 1">
+    <img src="https://via.placeholder.com/300" alt="Prato elegante 2">
+    <img src="https://via.placeholder.com/300" alt="Prato elegante 3">
+  </div>
+
+  <div class="section contact">
+    <h2>Contacto</h2>
+    <p>📍 Maputo, Moçambique</p>
+    <p>📱 <a href="https://wa.me/258858442640" target="_blank">WhatsApp</a></p>
+    <p>📧 <a href="mailto:krywanskikassandra@icloud.com">krywanskikassandra@icloud.com</a></p>
+  </div>
+
+  <div class="footer">
+    <p>“Desfrute — sua experiência gastronómica em boas mãos.”</p>
+    <p>— Kassandra</p>
+  </div>
+</body>
+</html>
